@@ -23,8 +23,9 @@ const Modal = ({ src, alt, closeModal }) => {
     return () => {
       document.removeEventListener('keydown', handleCloseOnEcsape);
     };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
-  
+
   return (
     <div className={overlay} onClick={handleOverlayClick}>
       <div className={modal}>
