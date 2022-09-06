@@ -6,7 +6,7 @@ Stona pracy:
 
 ## Szczegóły projektu
 
-Zadanie zostało wykonane według [kryteriów](https://github.com/goitacademy/react-homework/blob/master/homework-04/README.pl.md).
+Zadanie zostało wykonane według [kryteriów](https://github.com/goitacademy/react-homework/blob/master/hooks/README.pl.md).
 
 ## Technologie
 - REACT
